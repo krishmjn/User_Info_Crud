@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "0ZwjV_gxFZ",
+      "name": "Krish Maharjan",
+      "email": "maharjankrish51@gmail.com",
+      "address": "Thamel",
+      "dob": "2024-05-06",
+      "age": 20
+    },
+    {
+      "id": "MQ6yIGQSp0",
+      "name": "Melinda Camacho",
+      "email": "tymelemib@mailinator.com",
+      "address": "Ut sit iure aperiam ",
+      "dob": "2000-03-10",
+      "age": 44
+    },
+    {
+      "id": "kB3sknLVC6",
+      "name": "Macy Vance",
+      "email": "dureqer@mailinator.com",
+      "address": "Laborum dolore labor",
+      "dob": "1980-07-29",
+      "age": 44
+    },
+    {
+      "id": "RYBFNYoZr7",
+      "name": "Coby Torres",
+      "email": "pizoxepi@mailinator.com",
+      "address": "Aperiam quo porro re",
+      "dob": "2024-05-03",
+      "age": 0
+    }
+  ]
+}
